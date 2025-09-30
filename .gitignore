@@ -1,4 +1,9 @@
-main.exe
 main
 .vscode/
-lib/goapi.*
+lib/goapi.lib
+lib/libgoapi.a
+lib/libgoapi.so
+build/
+**/.dll
+**/.so
+*.exe
